@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Cofeben';
-    src: url("/Media/Font/cofeben/Cofeben.ttf") format("woff2");
-    src: url("/Media/Font/cofeben/Cofeben.otf") format("opentype");
+    src: url("Media/Font/cofeben/Cofeben.ttf") format("woff2");
+    src: url("Media/Font/cofeben/Cofeben.otf") format("opentype");
 }
 
 *{
