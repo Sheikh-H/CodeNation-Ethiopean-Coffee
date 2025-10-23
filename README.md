@@ -1,4 +1,4 @@
-# CodeNation-Ethiopean-Coffee
+# Ethiopian Coffee Shop
 This is a website created for an assignment set by CodeNation during my studies with them.
 
 Click to view:
