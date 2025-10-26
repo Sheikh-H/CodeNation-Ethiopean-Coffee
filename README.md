@@ -52,6 +52,7 @@ EthiopiasCoffeeShop/
 │   ├── location.png
 │   ├── favicon.ico
 │   └── ...
+├── LICENCE                 # MIT LICENCE
 └── README.md               # Project documentation
 </pre>
 
