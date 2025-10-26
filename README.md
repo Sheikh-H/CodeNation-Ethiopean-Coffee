@@ -61,7 +61,7 @@ EthiopiasCoffeeShop/
 
 <p>
   <b>View Site:</b>
-👉 <b><a href="https://sheikh-h.github.io/CodeNation-Ethiopian-Coffee/">https://sheikh-h.github.io/CodeNation-Ethiopian-Coffee/</a></b>
+👉 <b><a href="https://sheikh-h.github.io/CodeNation-Ethiopian-Coffee/" target="_blank">https://sheikh-h.github.io/CodeNation-Ethiopian-Coffee/</a></b>
 </p>
 
 ---
