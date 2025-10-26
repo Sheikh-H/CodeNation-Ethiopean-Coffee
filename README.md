@@ -50,7 +50,8 @@ EthiopiasCoffeeShop/
 │   ├── ethiopian_snacks.jpg
 │   ├── ethiopian_tea.jpg
 │   ├── location.png
-│   └── favicon.ico
+│   ├── favicon.ico
+│   └── ...
 └── README.md               # Project documentation
 </pre>
 
