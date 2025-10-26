@@ -123,7 +123,7 @@ in the Software without restriction...
 <p>
 <b>Sheikh</b><br>
 💬 Learning to Code | Student Developer at Code Nation<br>
-📧 Contact: <i>[your.email@example.com]</i>
+📧 Contact: <i>https://www.linkedin.com/in/sheikh-hussain/</i>
 </p>
 
 ---
