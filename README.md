@@ -60,8 +60,8 @@ EthiopiasCoffeeShop/
 <h2>🖥️ Live Demo</h2>
 
 <p>
-If you have deployed the site (e.g. via GitHub Pages or Netlify), include your link here:<br>
-👉 <b><a href="#">https://yourusername.github.io/EthiopiasCoffeeShop/</a></b>
+  <b>View Site:</b>
+👉 <b><a href="https://sheikh-h.github.io/CodeNation-Ethiopian-Coffee/">https://sheikh-h.github.io/CodeNation-Ethiopian-Coffee/</a></b>
 </p>
 
 ---
