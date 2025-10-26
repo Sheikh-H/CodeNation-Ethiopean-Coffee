@@ -94,7 +94,7 @@ If you have deployed the site (e.g. via GitHub Pages or Netlify), include your l
 <h2>📸 Visual Preview</h2>
 
 <p align="center">
-  <img src="Media/Preview.png" alt="Ethiopia's Coffee Shop Preview" width="600px"height="700px"><br>
+  <img src="Media/Preview.png" alt="Ethiopia's Coffee Shop Preview" width="600px" height="700px"><br>
   <i>Homepage showcase — simple, elegant, and culturally themed.</i>
 </p>
 
